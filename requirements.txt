@@ -1,4 +1,4 @@
-absl-py @ file:///home/conda/feedstock_root/build_artifacts/absl-py_1705494584803/work
+absl-py #@ file:///home/conda/feedstock_root/build_artifacts/absl-py_1705494584803/work
 aiohttp @ file:///D:/bld/aiohttp_1710511677672/work
 aiosignal @ file:///home/conda/feedstock_root/build_artifacts/aiosignal_1667935791922/work
 altair==5.3.0
