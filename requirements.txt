@@ -1,3 +1,4 @@
+Streamlit
 absl-py
 aiohttp
 aiosignal
@@ -150,8 +151,6 @@ python-dateutil
 python-dotenv==1.0.1
 python-json-logger
 pytz
-pyu2f
-pywin32==305.1
 pywinpty
 PyYAML
 pyzmq
